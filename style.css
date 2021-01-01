@@ -6,12 +6,12 @@
 
 body {
   text-align: center;
-  margin-top: 50px;
+  /* margin-top: 50px; */
 }
 
 svg {
-  width: 500px;
-  height: 500px;
+  width: 650px;
+  height: 650px;
 }
 
 #ball {
